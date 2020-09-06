@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiconsume", "apiconsume\apiconsume.csproj", "{794DEA47-A12A-44B7-8EBD-46319F5B0813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "txtfilereaden", "txtfilereaden\txtfilereaden.csproj", "{92E4C866-80B9-4A5C-B92F-3CDD8400FFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loginfrom", "Loginfrom\Loginfrom.csproj", "{D1534BE0-7FDE-4A05-AA16-47FD45DF742D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationForm", "RegistrationForm\RegistrationForm.csproj", "{850547CE-D26F-4368-B3E5-7456FF237DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCrud", "MvcCrud\MvcCrud.csproj", "{87F52F05-D43A-48D4-A5A9-98C28F5BE611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQuery ajax crud", "JQuery ajax crud\JQuery ajax crud.csproj", "{CD06F6CC-284E-44FB-9CB7-389A7DD84DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794DEA47-A12A-44B7-8EBD-46319F5B0813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794DEA47-A12A-44B7-8EBD-46319F5B0813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794DEA47-A12A-44B7-8EBD-46319F5B0813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794DEA47-A12A-44B7-8EBD-46319F5B0813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E4C866-80B9-4A5C-B92F-3CDD8400FFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E4C866-80B9-4A5C-B92F-3CDD8400FFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E4C866-80B9-4A5C-B92F-3CDD8400FFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E4C866-80B9-4A5C-B92F-3CDD8400FFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1534BE0-7FDE-4A05-AA16-47FD45DF742D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1534BE0-7FDE-4A05-AA16-47FD45DF742D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1534BE0-7FDE-4A05-AA16-47FD45DF742D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1534BE0-7FDE-4A05-AA16-47FD45DF742D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850547CE-D26F-4368-B3E5-7456FF237DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850547CE-D26F-4368-B3E5-7456FF237DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850547CE-D26F-4368-B3E5-7456FF237DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850547CE-D26F-4368-B3E5-7456FF237DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F52F05-D43A-48D4-A5A9-98C28F5BE611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F52F05-D43A-48D4-A5A9-98C28F5BE611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F52F05-D43A-48D4-A5A9-98C28F5BE611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F52F05-D43A-48D4-A5A9-98C28F5BE611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD06F6CC-284E-44FB-9CB7-389A7DD84DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD06F6CC-284E-44FB-9CB7-389A7DD84DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD06F6CC-284E-44FB-9CB7-389A7DD84DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD06F6CC-284E-44FB-9CB7-389A7DD84DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
